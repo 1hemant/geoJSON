@@ -1,0 +1,34 @@
+var myData = [
+  {                                    
+    "abbrev":"ES",                     
+    "parentState":"East Sikkim",         
+    "capital":"Gangtok",             
+    "lat":27.3300,                   
+    "lon":88.6200,                  
+    "population":281293               
+  },                                   
+  {                                    
+    "abbrev":"NS",                     
+    "parentState":"North Sikkim",            
+    "capital":"Mangan",                
+    "lat":27.5200,                   
+    "lon":88.5300,                 
+    "population":43354             
+  },                                   
+  {                                    
+    "abbrev":"SS",                     
+    "parentState":"South Sikkim",             
+    "capital":"Namchi",                 
+    "lat":27.1700,                   
+    "lon":88.3500,                 
+    "population":146742               
+  },                                            
+  {                                             			
+    "abbrev":"WS",                              			
+    "parentState":"West Sikkim",                   			
+    "capital":"Geyzing",                  			
+    "lat":27.2800,                            			
+    "lon":88.2700,                           
+    "population":136299                        
+  }
+];
